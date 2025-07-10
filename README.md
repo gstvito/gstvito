@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 A passionate front-end developer with hands-on experience in React, Next.js, and Vue.js. I transform ideas into elegant, responsive web applications that deliver exceptional user experiences through clean code and modern design principles.
 
