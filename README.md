@@ -45,7 +45,7 @@ Currently, I'm actively developing my front-end skills with a strong focus on de
 
 ## 🏆 Featured Projects
 
-- [StudySync](https://github.com/gstvito/StudySync): A website designed to identify an individual's learning style, such as Auditory, Visual, or Kinesthetic.
+- [StudySync](https://github.com/gstvito/StudySyncs): A website designed to identify an individual's learning style, such as Auditory, Visual, or Kinesthetic.
 - [Resonance Residence](https://github.com/gstvito/Resonance-Residence):  Real estate website showcasing Resonance Residence property listings.
 - [BEM SV 2024 Website](https://github.com/gstvito/BEM-SV-Website): Official website for BEM Sekolah Vokasi UNS 2024 showcasing organizational information and work programs of the organization.
 
